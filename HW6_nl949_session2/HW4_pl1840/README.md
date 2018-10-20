@@ -10,6 +10,6 @@ I generally try to avoid dropping columns in place, because it has always seemed
 
 This notebook gets to a dataframe with usertype and start-time, but doesn't seem to format the data into a place where they might then go and check ride duration, which they might consider calculating as ("ride_end"-"ride_start").astype('timedelta64[h]').
 
-1c) Choose an appropriate test to test H0 given the type of data and the question asked.
+###1c) Choose an appropriate test to test H0 given the type of data and the question asked.
 
 We should use the chi-square test for homogeneity to test their hypothesis, since the question at hand concerns whether a potential difference in ride duration is associated with category of rider (subscriber vs. non-subscriber), or if any potential difference is due to pure chance. 
