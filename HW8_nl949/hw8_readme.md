@@ -2,6 +2,8 @@
 ## Assignment 1
 ![](./map_export.png)
 
+This map shows the total count of 311 noise complaints by residents in 2017 by Community District in NYC. If you look carefully, you might see that neighborhoods that were rapidly gentrifying in that time period have the highest complaint counts.
+
 
 ## Assignment 2
 
