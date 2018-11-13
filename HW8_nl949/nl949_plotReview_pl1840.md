@@ -13,4 +13,4 @@ My suggestion are: specify what do you mean by the neighborhoods were rapidly ge
 Your classmate, Pengzi Li
 
 --------------------------------------------------------------------------------
-![Alt text](nl949_plot.png)
+![Alt text](https://github.com/estellaleee/PUI2018_pl1840/blob/master/HW9_pl1840/nl949_plot.png)
